@@ -1,0 +1,6 @@
+boot.emmc stammt aus TWRP Backup
+abootimg -u boot.emmc.win -k /root/Android/Nethunter-s7-kernel-StockOreo/arch/arm64/boot/Image
+
+File umbenennen und mit Endung .img versehen
+Upload mittels TWRP
+
